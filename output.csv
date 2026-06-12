@@ -1,0 +1,6 @@
+experiment_id,created_date,status,temperature,pressure,humidity,concentration,yield_percent,operator,email,description
+1001,2026-06-01,ACTIVE,23.5,1013.2,45.1,12.45,87.3,alice,alice@company.com,urgent calibration completed
+1002,2026-06-02,ACTIVE,25.1,1011.8,47.3,15.20,91.4,bob,bob@company.com,urgent sample processed
+1003,2026-06-03,PENDING,22.8,1015.1,44.8,10.80,79.5,charlie,charlie@company.com,urgent validation required
+1004,2026-06-04,INACTIVE,21.2,1012.7,46.0,8.65,68.2,david,david@company.com,urgent archived experiment
+1005,2026-06-05,ACTIVE,24.9,1014.3,48.7,13.90,88.7,emma,emma@company.com,urgent quality check
